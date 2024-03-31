@@ -1,0 +1,7 @@
+*
+!docker/
+!source/
+!.env.example
+!.gitignore
+!compose.yml
+!readme.md
